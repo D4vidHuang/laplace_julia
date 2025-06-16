@@ -1,0 +1,22 @@
+# Python GUI Requirements for Laplace Approximation Bayesian Neural Networks
+# Install with: pip install -r requirements.txt
+
+# Core GUI framework
+tkinter  # Usually comes with Python
+
+# Julia interface
+julia>=0.6.0
+
+# Image processing for logo display
+Pillow>=9.0.0
+
+# Scientific computing and visualization
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Optional: Enhanced GUI components
+# pyqt5>=5.15.0  # Alternative to tkinter (uncomment if preferred)
+
+# Development and testing (optional)
+# pytest>=6.0.0
+# black>=22.0.0
